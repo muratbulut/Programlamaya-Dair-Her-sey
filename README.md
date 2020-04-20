@@ -4,6 +4,7 @@
 
 # İÇİNDEKİLER
 
-## Giriş
+## Algoritma
 
-- [Algoritma](icerik/Algoritma.md)
+- [Algoritma Nedir?](icerik/algoritma.md)
+- [Algoritma Örnekleri](icerik/algoritma-ornekleri.md)

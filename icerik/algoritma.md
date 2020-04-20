@@ -15,11 +15,20 @@ Kısaca **algoritma**, elimizde var olanlarla **sonuca ulaşma şemasıdır**. K
 
 Her program, aynı sorun için tek bir yoldan gitmez. Aynı sorunun birden fazla yolu olabileceği gibi algoritmaları da çeşitlidir. Burada önemli olan, sorunun çözülmesi için başlatılan algoritmanın son bulabilmesidir. **Sonsuza kadar işleyen süreçlere, algoritma denemez.**
 
+## Programlamaya başlamadan önce algoritma ve akış şeması oluşturmanın avantajları:
+
+- Kodlamaya geçmeden önce algoritma veya akış şeması oluşturmak **program yazmayı kolaylaştırır**.
+- Kodlarımızı yazarken hatalı kod oranını **ciddi anlamda azaltır**.
+- Program yazımı için gerekli süreyi **kısaltır**.
+- Program kontrolünü ve hata takibini **kolaylaştırır**.
+- Program üzerinde daha sonra yapılacak düzenlemelerde **kolaylık sağlar**.
+
 ## Her algoritmanın bulundurması gereken genel özellikler:
 
 - Her algoritma, **başlatılmalıdır**.
 - Her bir adım, açık bir şekilde **sırayla** yazılmalıdır.
-- Tüm koşullar göz önünde bulundurulmalıdır ve **genel** olmalıdır. 
+- Tüm koşullar göz önünde bulundurulmalıdır ve **genel** olmalıdır.
+- Algoritma, geliştirmelere yani **değişikliklere açık** olmalıdır. 
 - Belirli adımlar bittikten sonra program **sonlanmalıdır**.
   
 Algoritmada ana **3 kısım** vardır. Bunlar; **değişkenler, algoritma(gidişat) ve akış diyagramıdır**.
@@ -38,6 +47,40 @@ Değişkenler, yapılan işlemler sonucu oluşturulan veya kullanıcı tarafınd
 - ![Algoritma](/media/algoritma-1.png)
 
 - ![Algoritma](/media/algoritma-2.jpeg)
+
+## ALGORİTMALARI İFADE ETME TÜRLERİ
+
+    Algoritmaları genel olarak 3 farklı şekilde ifade edebiliyoruz. Bunlar:
+
+1. **Algoritmanın metin olarak yazılması**: Bu yöntemde algoritmanın tüm adımları düz metin olarak açıkça yazılır.
+2. **Algoritmanın sözde kodlarla yazılması**: Bu yöntemde algoritmanın tüm adımları yarı kodlarla veya kısaltmalarla yazılır.
+3. **Algoritmanın akış şemasının çizilmesi**: Bu yöntemde algoritmanın tüm adımları belirli şekillerle ifade edilir.
+
+Şimdi örnek bir algoritma belirleyelim ve bu algoritmayı 3 farklı şekilde nasıl ifade edebileceğimize bakalım.
+
+### **Örnek Algoritma**:  Bir kenar uzunluğu ve o kenara ait yüksekliği girilen üçgenin alanını hesaplayan algoritmayı 3 farklı şekilde yazınız.
+
+#### Algoritmanın Metin Olarak Yazılması
+
+- A1 Başla.
+- A2 Üçgenin kenar uzunluğunu gir.
+- A3 O kenara ait yüksekliği gir.
+- A4 Kenar uzunluğu ile yüksekliği çarpıp 2’ye böl ve Sonucu **alan** değişkenine ata.
+- A5 Alan değişkenini ekrana yaz.
+- A6 Dur.
+
+#### Algoritmanın Sözde Kodlarla Yazılması
+
+- A1 Başla.
+- A2 kenarUzunlugu gir.
+- A3 yukseklik gir.
+- A4 alan = (kenarUzunlugu * yukseklik) / 2.
+- A5 alan değişkenini yaz.
+- A6 Dur.
+
+#### Algoritmanın Akış Şeması ile İfade Edilmesi
+
+- ![Akış Şeması](../media/algoritma-3.jpg)
 
 ## **Günlük Hayattan Basit Algoritma Örnekleri**
 
@@ -79,3 +122,5 @@ Aşağıdaki örneklerin çok basit olduğunu düşünebilirsiniz. Sakın göz a
     ## __*Farklı çözümler, zenginliktir.*__
 
     Problem çözümlerinde, herkesin oluşturduğu **algoritma aynı olmak zorunda değil**. Düşünceler, gidişat, yollar farklı olsa da **sonuç aynı** olabilir. Matematik’ te ve normal hayatta olduğu gibi **bir sorunun birden fazla çözümü olabilir**.
+
+    ### **_[Algoritma örnekleri geçebilirsiniz.](algoritma-ornekleri.md)_**
