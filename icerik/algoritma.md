@@ -31,18 +31,20 @@ Her program, aynı sorun için tek bir yoldan gitmez. Aynı sorunun birden fazla
 - Algoritma, geliştirmelere yani **değişikliklere açık** olmalıdır. 
 - Belirli adımlar bittikten sonra program **sonlanmalıdır**.
   
-Algoritmada ana **3 kısım** vardır. Bunlar; **değişkenler, algoritma(gidişat) ve akış diyagramıdır**.
+Algoritmada ana **3 kısım** vardır. Bunlar; **değişkenler, algoritma(gidişat) ve akış şeması**.
 
 ## **Değişkenler**
 
 Değişkenler, verileri tutması için hafızada açılan kutucuklara verdiğimiz isimlerdir. Her seferinde farklı değerler içerebilen yapıdır. Programlarda, İnternet sitelerinde boş kutucuklara girilen her bilgi değişkendir.
 Değişkenler, yapılan işlemler sonucu oluşturulan veya kullanıcı tarafından girilen verileri tutmak için kullanılır. 
 
-## **Akış Diyagramları**
+## **Akış Şeması**
 
-Çözülecek problemin, çözüm süreçlerinin şekillendirilmiş haline akış diyagramı denir. Bu diyagram, sürecin parçalarını ve parçalar arası ilişkiyi gösteren ve anlaşılmasını kolaylaştıran şekillerdir. Bilgisayar programlarında da algoritma oluşturulmadan önce akış diyagramı oluşturulur. Ardından algoritmalarla içleri doldurulur.
+Çözülecek problemin, çözüm süreçlerinin şekillendirilmiş haline akış şeması denir. Bu şema, sürecin parçalarını ve parçalar arası ilişkiyi gösteren ve anlaşılmasını kolaylaştıran şekillerdir. Bilgisayar programlarında da algoritma oluşturulmadan önce akış şeması oluşturulur. Ardından algoritmalarla içleri doldurulur. 
 
-### Akış Diyagramı örnekleri:
+#### _Akış şemasını daha iyi anlamak için [akış şeması](akis-semasi.md) anlatımına bakabilirsiniz._
+
+### Akış Şeması örnekleri:
 
 - ![Algoritma](/media/algoritma-1.png)
 
@@ -123,4 +125,4 @@ Aşağıdaki örneklerin çok basit olduğunu düşünebilirsiniz. Sakın göz a
 
     Problem çözümlerinde, herkesin oluşturduğu **algoritma aynı olmak zorunda değil**. Düşünceler, gidişat, yollar farklı olsa da **sonuç aynı** olabilir. Matematik’ te ve normal hayatta olduğu gibi **bir sorunun birden fazla çözümü olabilir**.
 
-    ### **_[Algoritma örnekleri geçebilirsiniz.](algoritma-ornekleri.md)_**
+    ### **_[Algoritma örneklerine geçebilirsiniz.](algoritma-ornekleri.md)_**
