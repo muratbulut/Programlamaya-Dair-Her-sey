@@ -102,16 +102,6 @@
 
 - **Örnek** 51: Öğrencinin sınavdan aldığı puan (0-100) karşılığı olan notu (1-5) ekranda gösteren algoritma örneği.
 
-- **Örnek** 52: Basit Algoritma Örnekleri için tıklayınız.
-
-- **Örnek** 53:  Zor algoritma örnekleri için tıklayınız.
-
-- **Örnek** 54: 6. Sınıf algoritma örnekleri için tıklayınız.
-
-- **Örnek** 55: Günlük hayattan algoritma örnekleri için tıklayınız.
-
-Çalışma Soruları:
-
 - **Örnek** 56: Klavyeden girilen 1-25 arasındaki bir tamsayının faktöriyelini alan programın algoritma ve akış diyagramını
 yazınız.
 
