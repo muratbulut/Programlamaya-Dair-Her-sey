@@ -36,7 +36,7 @@ Algoritmada ana **3 kısım** vardır. Bunlar; **değişkenler, algoritma(gidiş
 ## **Değişkenler**
 
 Değişkenler, verileri tutması için hafızada açılan kutucuklara verdiğimiz isimlerdir. Her seferinde farklı değerler içerebilen yapıdır. Programlarda, İnternet sitelerinde boş kutucuklara girilen her bilgi değişkendir.
-Değişkenler, yapılan işlemler sonucu oluşturulan veya kullanıcı tarafından girilen verileri tutmak için kullanılır. 
+Değişkenler, yapılan işlemler sonucu oluşturulan veya kullanıcı tarafından girilen verileri tutmak için kullanılır. Sayısal değişkenler veya Sayısal olmayan değişkenler olabilir.
 
 ## **Akış Şeması**
 
